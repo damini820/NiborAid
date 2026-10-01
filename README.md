@@ -536,7 +536,7 @@ https://niboraid.onrender.com/docs
 
 ## 👩‍💻 Author
 
-**Gutta Maneesha** 
+**Gutta Maneesha** ** & **
 **Damini Yadav**
 
 B.Tech — Computer Science & Engineering  
