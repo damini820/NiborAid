@@ -536,11 +536,16 @@ https://niboraid.onrender.com/docs
 
 ## 👩‍💻 Author
 
-**Gutta Maneesha**
+**Gutta Maneesha** 
+**Damini Yadav**
 
 B.Tech — Computer Science & Engineering  
 Motilal Nehru National Institute of Technology Allahabad
 
 [GitHub](https://github.com/Maneesha1411)
+[GitHub](https://github.com/damini820).
+
 
 [LinkedIn](https://www.linkedin.com/in/maneesha-gutta/)
+[LinkedIn](https://www.linkedin.com/in/damini-yadav30
+/)
